@@ -1,4 +1,4 @@
-package SwitchCase.forDongusu.src;
+package forDongusu.src;
 
 public class asalSayi {
     public static void main(String[] args) {
