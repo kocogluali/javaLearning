@@ -13,13 +13,15 @@ public class Main {
         IndividualCustomer individualCustomer = new IndividualCustomer();
         individualCustomer.setId(1);
         individualCustomer.setCustomerNumber("58582828");
-        individualCustomer.setPhone("05333586028");
+        individualCustomer.setPhone("05353586058");
         individualCustomer.setFirstName("Ali Kemal");
         individualCustomer.setLastName("Koçoğlu");
 
         CorporateCustomer corporateCustomer = new CorporateCustomer();
         corporateCustomer.setCompanyName("KodlamaIO");
         corporateCustomer.setTaxNumber("380960");
-        corporateCustomer.setId(1);
+        corporateCustomer.setId(2);
+        corporateCustomer.setCustomerNumber("123");
+        corporateCustomer.setPhone("05333333");
     }
 }
