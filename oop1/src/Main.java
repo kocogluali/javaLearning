@@ -2,7 +2,7 @@ package oop1.src;
 
 public class Main {
     public static void main(String[] args) {
-        System.out.println("oop1 merhaba");
+        
         Product produck1 = new Product();
         produck1.setName("Kahve Makinesi");
         produck1.setDiscount(11);
@@ -23,5 +23,11 @@ public class Main {
         corporateCustomer.setId(2);
         corporateCustomer.setCustomerNumber("123");
         corporateCustomer.setPhone("05333333");
+
+        Customer[] customers = {individualCustomer,corporateCustomer};
+
+        for (Customer customer : customers) {
+            System.out.println(customer.getId());
+        }
     }
 }
