@@ -1,2 +1,3 @@
-package PACKAGE_NAME;public interface IMaintable {
+public interface IMaintable {
+    void repair();
 }

@@ -1,2 +1,6 @@
-package PACKAGE_NAME;public class ChildGameCalc {
+public class ChildGameCalc extends GameCalc{
+    @Override
+    public void hesapla(){
+        System.out.println("Puanınız: 100");
+    }
 }

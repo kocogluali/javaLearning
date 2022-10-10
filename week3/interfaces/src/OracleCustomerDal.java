@@ -1,2 +1,6 @@
-package PACKAGE_NAME;public class OracleCustomerDal {
+public class OracleCustomerDal implements  ICustomerDal{
+    @Override
+    public void Add() {
+        System.out.println("Oracle Eklendi.");
+    }
 }

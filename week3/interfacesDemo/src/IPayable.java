@@ -1,2 +1,3 @@
-package PACKAGE_NAME;public interface IPayable {
+public interface IPayable {
+    void pay();
 }

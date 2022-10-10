@@ -1,2 +1,5 @@
-package PACKAGE_NAME;public class OgretmenKrediManager {
+public class OgretmenKrediManager extends  BaseKrediManager{
+    public double hesapla(double tutar){
+        return tutar*1.15;
+    }
 }
