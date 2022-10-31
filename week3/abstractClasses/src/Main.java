@@ -4,6 +4,10 @@ public class Main {
 
         GameCalc gameCalcs = new ChildGameCalc();
         gameCalcs.hesapla();
+        GameCalc womanCalc = new WomanGameCalc();
+        womanCalc.hesapla();
 
+        GameCalc manCalc  = new ManGameCalc();
+        manCalc.hesapla();
     }
 }

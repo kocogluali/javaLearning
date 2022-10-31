@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/JavaProtects.iml" filepath="$PROJECT_DIR$/JavaProtects.iml" />
+      <module fileurl="file://$PROJECT_DIR$/week3/abstractClasses/abstractClasses.iml" filepath="$PROJECT_DIR$/week3/abstractClasses/abstractClasses.iml" />
+      <module fileurl="file://$PROJECT_DIR$/week3/abstractDemo/abstractDemo.iml" filepath="$PROJECT_DIR$/week3/abstractDemo/abstractDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/week3/interfaces/interfaces.iml" filepath="$PROJECT_DIR$/week3/interfaces/interfaces.iml" />
+      <module fileurl="file://$PROJECT_DIR$/week3/interfacesDemo/interfacesDemo.iml" filepath="$PROJECT_DIR$/week3/interfacesDemo/interfacesDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/week3/javaDersleri33_46/javaDersleri33_46.iml" filepath="$PROJECT_DIR$/week3/javaDersleri33_46/javaDersleri33_46.iml" />
+      <module fileurl="file://$PROJECT_DIR$/week3/kodlamaIO/kodlamaIO.iml" filepath="$PROJECT_DIR$/week3/kodlamaIO/kodlamaIO.iml" />
+      <module fileurl="file://$PROJECT_DIR$/week3/oppWithNLayeredApp/oppWithNLayeredApp.iml" filepath="$PROJECT_DIR$/week3/oppWithNLayeredApp/oppWithNLayeredApp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/week3/overriding/overriding.iml" filepath="$PROJECT_DIR$/week3/overriding/overriding.iml" />
+      <module fileurl="file://$PROJECT_DIR$/week3/staticDemo/staticDemo.iml" filepath="$PROJECT_DIR$/week3/staticDemo/staticDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/week3/youtubeDemoOOP/youtubeDemoOOP.iml" filepath="$PROJECT_DIR$/week3/youtubeDemoOOP/youtubeDemoOOP.iml" />
+    </modules>
+  </component>
+</project>
